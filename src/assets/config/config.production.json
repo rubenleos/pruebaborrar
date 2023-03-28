@@ -1,0 +1,12 @@
+{
+  "env": {
+    "name": "#{envName}"
+  },
+  "urlSpring" : "http://104.154.90.123:8080",
+  "urlGrafana" : "http://104.154.90.123:80",
+  "urlHost" : "http://34.170.68.36:3000",
+  "urlCamunda" : "http://35.193.239.228:8080",
+  "urlZabbix": "http://35.193.239.228:80",
+  "urlServiceDesk": "http://34.121.131.230:80",
+  "urlApiWeb": "http://104.154.90.123:5000"
+}
